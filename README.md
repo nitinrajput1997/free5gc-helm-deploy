@@ -1,2 +1,2 @@
 # free5gc-helm-deploy
-##Install minikube or kubeadm
+## Install minikube or kubeadm
