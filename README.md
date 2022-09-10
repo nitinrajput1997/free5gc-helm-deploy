@@ -1,2 +1,5 @@
 # free5gc-helm-deploy
-## Install minikube or kubeadm
+
+## Pre-requisite
+#### Install minikube or kubeadm
+#### Multus-CNI
